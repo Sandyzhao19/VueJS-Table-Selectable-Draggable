@@ -38,10 +38,6 @@
           </tr>
           </tbody>
         </table>
-  
-        <rawDisplayer class="col-2" :value="list" title="List"/>
-  
-        <rawDisplayer class="col-2" :value="headers" title="Headers"/>
       </div>
     </div>
   </template>
